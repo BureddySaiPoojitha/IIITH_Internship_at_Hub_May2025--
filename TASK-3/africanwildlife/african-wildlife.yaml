@@ -1,0 +1,6 @@
+train: C:/Users/Saipo/datasets/africanwildlife/train/images
+val: C:/Users/Saipo/datasets/africanwildlife/valid/images
+test: C:/Users/Saipo/datasets/africanwildlife/test/images
+
+nc: 4
+names: ['buffalo', 'elephant', 'rhino', 'zebra']
