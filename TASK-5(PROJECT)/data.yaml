@@ -1,0 +1,4 @@
+train: C:/Users/Saipo/IIITH_Internship/TASK-5/images/train
+val: C:/Users/Saipo/IIITH_Internship/TASK-5/images/valid
+nc: 2
+names: ['safe', 'alert']
