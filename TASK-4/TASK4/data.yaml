@@ -1,0 +1,8 @@
+train: C:/Users/Saipo/IIITH_Internship/TASK-4/TASK4/images/train
+val: C:/Users/Saipo/IIITH_Internship/TASK-4/TASK4/images/valid
+
+# Number of classes
+nc: 6
+
+# Class names
+names: ['ace','three', 'jack','queen','king','joker']  # update with your actual class names

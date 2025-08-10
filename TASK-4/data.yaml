@@ -1,0 +1,11 @@
+path: C:/Users/Saipo/IIITH_Internship/TASK-4/TASK4
+train: images/train
+val: images/train
+
+names:
+  0: ace
+  1: 3
+  2: jack
+  3: queen
+  4: king
+  5: joker
